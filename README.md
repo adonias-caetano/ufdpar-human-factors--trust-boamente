@@ -1,4 +1,4 @@
- # Comparative Analysis of BERT-Based and Generative Large Language Models for Detecting Suicidal Ideation: A Performance Evaluation Study
+ # Human factors influencing mental health professionals' trust in an AI-based system for suicide prevention
 
 <p align="center">
 This repository provides BERT codes used to identify suicidal ideation in non-clinical texts in Brazilian Portuguese.
