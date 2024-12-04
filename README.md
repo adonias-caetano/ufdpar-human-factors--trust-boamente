@@ -36,6 +36,7 @@ This repository provides BERT codes used to identify suicidal ideation in non-cl
 * python TensorDataset, DataLoader, RandomSampler, SequentialSampler (torch) libraries
 * python tqdm.notebook library
 * python gradio library
+* python lime.lime_text library
 
 ## 📖  Dataset
 
@@ -67,4 +68,4 @@ Please, feel free to contact us for any questions: [![Gmail Badge](https://img.s
 
 * <a href="https://www.mdpi.com/2227-9032/10/4/698"><strong>Paper about Boamente System</strong></a>.
 * <a href="https://www.sciencedirect.com/science/article/pii/S1877050922009668"><strong>Paper about XAI Boamente System</strong></a>.
-* <a href="https://www.sciencedirect.com/science/article/pii/S187705092200966"><strong>Paper about Generative Large Language Models (ChatGPT 3.5, Google Bard, and Microsoft Bing) vs BERT Models BERTimbau and Multilingual)</strong></a>.
+* <a href="https://www.scielo.br/j/csp/a/XrbVfvybPj9tvJ8qWv7j8VC/?lang=en"><strong>Paper about Generative LLMs (ChatGPT 3.5, Google Bard, and Microsoft Bing) vs BERT Models (BERTimbau and Multilingual)</strong></a>.
