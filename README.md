@@ -18,7 +18,9 @@ This repository provides BERT codes used to identify suicidal ideation in non-cl
 
 * Google Colab
 * python pandas library
+* python re library
 * python unidecode library
+* python random library
 * python word_tokenize, stopwords, sent_tokenize (nltk) libraries
 * python wordcloud library
 * python matplotlib.pyplot library
@@ -26,6 +28,14 @@ This repository provides BERT codes used to identify suicidal ideation in non-cl
 * python seaborn library
 * python imblearn.under_sampling library
 * python sklearn.model_selection library
+* python BertTokenizer, BertForSequenceClassification (transformers) libraries
+* python sklearn.model_selection library
+* python datetime library
+* python numpy library
+* python scipy.special library
+* python TensorDataset, DataLoader, RandomSampler, SequentialSampler (torch) libraries
+* python tqdm.notebook library
+* python gradio library
 
 ## 📖  Dataset
 
@@ -41,7 +51,7 @@ The AdamW optimizer was used to adjust parameters in the model, batch size of 16
 
 Article accepted for publication in the <a href="https://cadernos.ensp.fiocruz.br/ojs/index.php/csp"> <strong>Cadernos de Saúde Pública</strong></a>
 
-### [Paper Link](https://www.scielo.br/j/csp/a/XrbVfvybPj9tvJ8qWv7j8VC/?lang=en) 
+### [Paper Link]() 
 
 ## 👏 Contributing
  
@@ -57,3 +67,4 @@ Please, feel free to contact us for any questions: [![Gmail Badge](https://img.s
 
 * <a href="https://www.mdpi.com/2227-9032/10/4/698"><strong>Paper about Boamente System</strong></a>.
 * <a href="https://www.sciencedirect.com/science/article/pii/S1877050922009668"><strong>Paper about XAI Boamente System</strong></a>.
+* <a href="https://www.sciencedirect.com/science/article/pii/S187705092200966"><strong>Paper about Generative Large Language Models (ChatGPT 3.5, Google Bard, and Microsoft Bing) vs BERT Models BERTimbau and Multilingual)</strong></a>.
